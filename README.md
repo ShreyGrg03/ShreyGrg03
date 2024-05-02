@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratham Sharma
+- 👋 Hi, I’m @ Shrey Garg 
 - 👀 I’m interested in Opensource stuff
 - 🌱 I’m currently learning High-level Languages and DSA.
 - 💞️ I’m looking to collaborate on projects of my knowledge

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreygrg03&label=Profile%20views&color=0e75b6&style=flat" alt="shreygrg03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreygrg03" alt="shreygrg03" /></a> </p>
-
 - 🔭 I’m currently working on [School Management System](https://github.com/ShreyGrg03/School_Management_System)
 
 - 🌱 I’m currently learning **Next.js**
@@ -23,6 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/shreygg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreygg3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrey garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey garg" height="30" width="40" /></a>
+<a href="https://instagram.com/shrey_.garg03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey_.garg03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shrey garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrey garg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shrey_garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrey_garg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrey_grg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrey_grg" height="30" width="40" /></a>
 </p>
@@ -33,6 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ShreyGrg03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ShreyGrg03" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&locale=en&layout=compact" alt="shreygrg03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&locale=en&layout=compact" alt="shreygrg03" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&locale=en" alt="shreygrg03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreygrg03&" alt="shreygrg03" /></p>

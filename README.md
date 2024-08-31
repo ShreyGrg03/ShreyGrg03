@@ -8,9 +8,9 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 
-![Totals Hits]<img src="https://komarev.com/ghpvc/?username=shreygrg03&label=Profile%20views&color=0e75b6&style=flat" alt="shreygrg03" />
+<img src="https://komarev.com/ghpvc/?username=shreygrg03&label=Profile%20views&color=0e75b6&style=flat" alt="shreygrg03" />
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Ak-Ka-grey?style=flat&logo=telegram)](https://t.me/Ak_Kappor) <br>
+[![telegram badge](https://img.shields.io/badge/Sh-Gr-grey?style=flat&logo=telegram)](https://t.me/Ak_Kappor) <br>
 </div>
 
 <hr></hr>
@@ -64,7 +64,7 @@ if(succeed == false){
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Kotlin & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, Travel or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Ak⚡Ka](https://t.me/Ak_Kappor)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Sh⚡Gr](https://t.me/Ak_Kappor)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Reading Stack Overflow answers burns **5 calorie per min**.
 
 ### ⚙ Github Analytics
@@ -82,7 +82,7 @@ if(succeed == false){
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreygrg03&theme=radical">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">-->
 </p>
 
 
@@ -108,7 +108,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a href="https://twitter.com/shreygg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreygg3" height="30" width="40" />
+<a align="right" href="https://twitter.com/shreygg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreygg3" height="30" width="40" />
 </a>
 </a>
 

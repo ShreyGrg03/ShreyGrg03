@@ -5,7 +5,7 @@
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31bkkjetdj42j2dr3hhqn7umymni?si=d87ee86adf974731) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ShreyGrg03)

@@ -108,8 +108,6 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a align="right" href="https://twitter.com/shreygg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreygg3" height="30" width="40" />
-</a>
 </a>
 
 

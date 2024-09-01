@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ShreyGrg03" alt="Hello Coders" width="70%"/>--> <br>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/ShreyGrg03" alt="Mario"  width="90%"/><br> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/ShreyGrg03" alt="Mario"  width="94%"/><br> 
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
 

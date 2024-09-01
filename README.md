@@ -5,7 +5,7 @@
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31bkkjetdj42j2dr3hhqn7umymni?si=d87ee86adf974731) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ShreyGrg03)

@@ -207,6 +207,17 @@ if(succeed == false){
 
 ___
 
+### Coding Stats
+
+
+```
+Total Time: 3 hr 42 mins
+
+Three.js    2 hr 10 min    █████████████████▒░░░░░░░   69.74 %
+3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░   33.26 %
+```
+
+
 ## 🔗 Connect with me
 
 <p align="center">
@@ -228,16 +239,6 @@ ___
 </p>
 
 <hr></hr>
-
-### Coding Stats
-
-
-```
-Total Time: 3 hr 42 mins
-
-Three.js    2 hr 10 min    █████████████████▒░░░░░░░   69.74 %
-3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░   33.26 %
-```
 
 
 <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>

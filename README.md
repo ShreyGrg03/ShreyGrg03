@@ -228,7 +228,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
     <img src="gmail.png" alt="Gmail" height="70" hspace="15">
   </a>
   <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
-    <img src="linkedin.png" alt="LinkedIn" height="70" hspace="15">
+    <img src="linkedin.jpg" alt="LinkedIn" height="70" hspace="15">
   </a>
   <a href="https://discord.com/users/traviasdocker">
     <img src="discord.png" alt="Discord" height="70" hspace="15">

@@ -225,7 +225,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 
 <p align="center">
   <a href="mailto:mailbox.shreygarg1230@gmail.com">
-    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="15">
+    <img src="assets/talk/discord.png" alt="Gmail" height="70" hspace="15">
   </a>
   <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
     <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="15">

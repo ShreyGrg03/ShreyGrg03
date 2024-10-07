@@ -232,14 +232,13 @@ ___
 ### Coding Stats
 
 
-```txt
-Total Time: 1 hr 42 mins
+```
+Total Time: 3 hr 42 mins
 
-CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
-HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+Three.js    2 hr 10 min    █████████████████▒░░░░░░░   69.74 %
+3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░   33.26 %
 ```
 
-----
 
 <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
 

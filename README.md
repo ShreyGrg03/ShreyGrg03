@@ -227,6 +227,8 @@ ___
   </a>
 </p>
 
+<hr></hr>
+
 ### Coding Stats
 
 

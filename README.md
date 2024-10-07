@@ -207,20 +207,6 @@ if(succeed == false){
 
 ___
 
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 42 mins
-
-CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
-HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-```
-
-----
-
-<img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
-
 ## 🔗 Connect with me
 
 <p align="center">
@@ -240,6 +226,21 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
     <img src="x.png" alt="X" height="70" hspace="15">
   </a>
 </p>
+
+### Coding Stats
+
+
+```txt
+Total Time: 1 hr 42 mins
+
+CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
+HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+```
+
+----
+
+<img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
+
 
 
 <img src="n.gif" width="100%"> 

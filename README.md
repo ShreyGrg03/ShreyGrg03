@@ -179,11 +179,22 @@ if(succeed == false){
 ### ⚙ Github Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar-sharma-7&theme=nord_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar-sharma-7&theme=nord_dark" >
-<img src="https://github-profile-trophy.vercel.app/?username=sagar-sharma-7&theme=darkhub">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=20&column=-1&theme=onedark&title=MultiLanguage,Repositories">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Stars">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&column=-1&theme=juicyfresh&title=Issues,PullRequest">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Followers">
+  </p>
+  
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="400">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="335">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="400">
 </p>
 
 ---

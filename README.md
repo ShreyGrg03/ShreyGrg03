@@ -44,9 +44,10 @@ if(succeed == false){
 ```
 <hr></hr>
 
-<p align="center"> 
-  <h1>Languages and Tools </h1>
-</p>
+<div style="text-align: center;"> 
+  <h1>Languages and Tools</h1>
+</div>
+
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">

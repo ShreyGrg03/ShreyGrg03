@@ -213,8 +213,9 @@ ___
 ```
 Total Time: 3 hr 42 mins
 
-Three.js    2 hr 10 min    █████████████████▒░░░░░░░   69.74 %
-3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░   33.26 %
+Three.js    2 hr 10 min    █████████████████▒░░░░░░░  68.74 %
+
+3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░  32.26 %
 ```
 
 <div align="center">

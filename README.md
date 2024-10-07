@@ -103,7 +103,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
 
 ## 🔗 Connect with me
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

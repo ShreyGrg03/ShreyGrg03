@@ -194,7 +194,7 @@ if(succeed == false){
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="420">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="380">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="350">
 </p>
 
 ---

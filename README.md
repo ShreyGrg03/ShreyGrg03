@@ -222,14 +222,24 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
 
 ## 🔗 Connect with me
-<div align="center">
 
-<a href="https://www.linkedin.com/in/shrey-garg-3012d1654/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-</a>
-
-</div>  
+<p align="center">
+  <a href="mailto:mailbox.shreygarg1230@gmail.com">
+    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="15">
+  </a>
+  <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
+    <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="15">
+  </a>
+  <a href="https://discord.com/users/traviasdocker">
+    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="15">
+  </a>
+  <a href="https://t.me/Ak_Kappor">
+    <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="15">
+  </a>
+  <a href="https://x.com/ShreyGg3">
+    <img src="./assets/talk/twitter.png" alt="Reddit" height="70" hspace="15">
+  </a>
+</p>
 
 
 <!--END_SECTION:waka-->

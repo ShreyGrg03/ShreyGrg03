@@ -110,8 +110,6 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 
 </a>
 
-</div>  
-
 <div align="right">
 
 <a href="shreygarg1230@gmail.com" target="_blank">
@@ -120,5 +118,9 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 </a>
   
 </div>
+
+</div>  
+
+
 <!--END_SECTION:waka-->
 

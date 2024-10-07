@@ -26,13 +26,13 @@ const Sagar = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
-        frontEnd: [HTML, CSS, SASS, Javascript, React],
+        frontEnd: [React, shadcn/ui, SASS, Javascript, Next.js],
         backEnd: [Node.js, Express.js, Mongoose.js, Python],
         dataBase: [MongoDB, SQL]
         libraries: [Bootstrap, JQuery]
     },
     editors: [VS Code, Vim, PyCharm, Nano],
-    learning: [Kali Linux, c++],
+    learning: [Kali Linux, C++],
     contact: shreygarg1230@gmail.com
 };
 
@@ -170,7 +170,7 @@ if(succeed == false){
 <br><br>
 </table>
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Three.js & Spline3D**. <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Three.js & Spline3D**. <img align="right" src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, Travel or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Sh⚡Gr](https://t.me/Ak_Kappor)**<br>
@@ -207,7 +207,7 @@ if(succeed == false){
 
 ___
 
-### Coding Stats
+### 💻 Coding Stats
 
 
 ```
@@ -217,12 +217,53 @@ Three.js    2 hr 10 min    █████████████████�
 3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░   33.26 %
 ```
 
+<div align="center">
+    <i style="font-size: 10px;">
+        "Never let anyone tell you that you can't build something! <br><b>You've got an idea… You need to protect it</b>.<br> When others struggle to bring their own visions to life, they'll tell you it's impossible for you too. <br><b>But if you believe in your code, your project—go build it.</b>"
+    </i>
+</div>
 
-## 🔗 Connect with me
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jrohit.com.np/" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a>
+  
+ </p>
+
+
+### 🔗 Connect with me
 
 <p align="center">
   <a href="mailto:shreygarg1230@gmail.com">
-    <img src="gmail.png" alt="Gmail" height="70" hspace="15">
+    <img src="gmail.png" alt="Gmail" height="60" hspace="15">
   </a>
   <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
     <img src="linkedin.png" alt="LinkedIn" height="70" hspace="15">

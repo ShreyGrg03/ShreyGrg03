@@ -219,7 +219,7 @@ Three.js    2 hr 10 min    █████████████████�
 
 <div align="center">
     <i style="font-size: 10px;">
-        "Never let anyone tell you that you can't build something! <br><b>You've got an idea… You need to protect it</b>.<br> When others struggle to bring their own visions to life, they'll tell you it's impossible for you too. <br><b>But if you believe in your code, your project—go build it.</b>"
+        "Never let anyone tell you that you can't build something! <br><b>You've got an idea… You need to protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>But if you believe in your code, your project—go build it.</b>"
     </i>
 </div>
 
@@ -258,6 +258,7 @@ Three.js    2 hr 10 min    █████████████████�
   
  </p>
 
+<hr></hr>
 
 ### 🔗 Connect with me
 
@@ -284,7 +285,17 @@ Three.js    2 hr 10 min    █████████████████�
 
 <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 
+
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<br />
+</div>
 
 <img src="n.gif" width="100%"> 
 <!--END_SECTION:waka-->

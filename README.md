@@ -224,18 +224,22 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="mailto:mailbox.shreygarg1230@gmail.com">
+  <a href="mailto:shreygarg1230@gmail.com">
     <img src="gmail.png" alt="Gmail" height="70" hspace="15">
   </a>
+  
   <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
     <img src="linkedin.png" alt="LinkedIn" height="70" hspace="15">
   </a>
+  
   <a href="https://discord.com/users/traviasdocker">
     <img src="discord.png" alt="Discord" height="70" hspace="15">
   </a>
+  
   <a href="https://t.me/Ak_Kappor">
     <img src="telegram.png" alt="Telegram" height="69" hspace="15">
   </a>
+  
   <a href="https://x.com/ShreyGg3">
     <img src="twitter.png" alt="X" height="70" hspace="15">
   </a>

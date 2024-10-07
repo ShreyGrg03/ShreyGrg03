@@ -15,7 +15,7 @@
 
 <hr></hr>
 
-### About me 
+### 👨 About me 
 
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
@@ -45,6 +45,7 @@ if(succeed == false){
 <hr></hr>
 
 ### 🛠️ Languages and Tools
+
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">

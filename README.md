@@ -219,7 +219,6 @@ Three.js    2 hr 10 min    █████████████████�
 
 
 ## 🔗 Connect with me
-
 <p align="center">
   <a href="mailto:shreygarg1230@gmail.com">
     <img src="gmail.png" alt="Gmail" height="70" hspace="15">

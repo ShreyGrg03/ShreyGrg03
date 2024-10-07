@@ -44,7 +44,7 @@ if(succeed == false){
 ```
 <hr></hr>
 
-<h1>Languages and Tools</h1>
+### Languages and Tools
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">

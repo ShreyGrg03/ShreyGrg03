@@ -193,7 +193,7 @@ if(succeed == false){
   
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="600">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="400">
 </p>
 
@@ -201,9 +201,8 @@ if(succeed == false){
 ### ⚙ Commits Streak 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreygrg03&theme=radical">
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">-->
-</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreygrg03&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
+  </p>
 
 
 ___

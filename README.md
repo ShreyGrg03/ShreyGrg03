@@ -264,7 +264,7 @@ Three.js    2 hr 10 min    █████████████████�
 
 <p align="center">
   <a href="mailto:shreygarg1230@gmail.com">
-    <img src="gmail.png" alt="Gmail" height="60" hspace="15">
+    <img src="gmail.png" alt="Gmail" height="62" hspace="15">
   </a>
   <a href="https://www.linkedin.com/in/shrey-garg-3012d1654/">
     <img src="linkedin.png" alt="LinkedIn" height="70" hspace="15">

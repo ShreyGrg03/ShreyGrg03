@@ -45,7 +45,7 @@ if(succeed == false){
 <hr></hr>
 
 <p align="center"> 
-  <h1>Languages and Tools </h1><br>
+  <h1>Languages and Tools </h1>
 </p>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">

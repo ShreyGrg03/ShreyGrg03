@@ -193,7 +193,7 @@ if(succeed == false){
   
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=shreygrg03&show_icons=true&theme=blue-green" width="450">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreygrg03&show_icons=true&theme=chartreuse-dark&layout=compact" width="400">
 </p>
 
